@@ -1,0 +1,187 @@
+body{
+
+	background-image: url(../img/background.jpg);background-position: cover;
+}
+#test{
+	 text-align: center; font-size: 20px;font-family: fantasy; color: red; background-image: url(../img/afr.jpg);
+}
+.text{
+	color: blue;font-size: 18px;
+	}
+.tt{
+	color:#616161;font-size: 35px;
+}
+
+.ll{
+	color:green;font-size: 35px	
+}
+.conte
+{
+	color: blue;
+}
+#lien1{
+	font-size: 25px;border:2px solid blue;	
+}
+#test{
+	border:2px solid blue;font-family: ALGERIAN;font-size: 40px;color: #546E7A;	animation-name: zoomIn;	animation-duration: 20s;animation-iteration-count: infinite;
+}
+#test:hover{
+	border-radius: 5%;color: #304FFE;	text-shadow: 1px 2px;
+}
+#sary{
+	height: 200px;	width: 200px;
+}
+#titre{
+	font-size: 25px;
+}
+.NN{
+	font-size: 30px;font-family: chiller;	color:blue;
+}
+
+.mhd{
+	font-family: Forte;	border:2px solid red;	text-shadow: 2px 1px;
+}
+#toph{
+	display: inline-flex;	border-radius: 30%;	height: 300px;	width: 300px;
+}	
+#toph:hover{
+	box-shadow: 3px 2px;
+	
+}
+#lien2{
+	font-family: calibri;font-size: 25px;	
+}
+#titre2{
+	text-align: center;	font-size: 30px;font-family: Algerian;	color: blue;
+}
+p1{
+	font-family: calibri;font-size: 25px;color:green;
+}
+.eto{
+	border-bottom-left-radius: 2px;
+}
+
+
+.noum{
+	font-family: algerian;	color: yellow;	font-size: 40px;
+}
+.noum {
+    height: 50px;
+    background-color: rgba(100,17,3,0.5);
+    
+}
+
+.mh{
+	border-radius: 20%;
+}
+#sary1{
+	height: 400px;	border-radius: 4%;	width: 305px;border:2px solid black;margin:auto;	
+}
+#sary1 img{
+	height: 370px;width: 299px;border-radius: 4%;
+}
+#sary1:hover{
+	box-shadow: 0px 0px 3px 4px rgba(10,5,0,0.1);
+	}
+
+.sally{
+	background-color: pink;text-shadow: 1px 3px;font-family: Forte;	font-size: 17px;border-radius: 12%;
+}
+#page{
+	text-align: center;
+}
+#page2{
+	text-align: center;
+}
+
+.prj{
+	width: 200px;border:2px double red;height: 200px;
+}
+
+.prj:hover{
+	box-shadow: 0px 3px 2px rgba(0,0,0,0.3);	border-radius: 20%;
+}
+p3{
+	font-size: 20px;font-family: broadway;color: rgb(78,96,10);	
+}
+#projet{
+	text-align: center;
+}
+
+@-webkit-keyframes example {
+    0%   {background-color:#EEEEEE; left:0px; top:0px;}
+    25%  {background-color:#E0E0E0; left:200px; top:0px;}
+    50%  {background-color:#BDBDBD; left:100px; top:100px;}
+    75%  {background-color:#9E9E9E; left:0px; top:200px;}
+    100% {background-color:#757575; left:0px; top:0px;}
+}
+
+.mhd{
+	animation-name: example;animation-iteration-count: infinite;animation-duration: 5s;	
+}
+.soratra{
+	font-size: 30px;font-family: Bauhaus 93;	
+}
+#sary{
+	margin: auto;border:1px solid black;	width: 289px;	height: 176px;	
+}
+#ic{
+	display: center;
+}
+#myDIV img{
+    margin: auto; height: 200px;  width: 200px;border-radius: 30%;  
+}
+
+/* Chrome, Safari, Opera */
+
+.icone{
+	display: inline;
+}
+.dev{
+	font-family: Consolas;text-align: center;	font-size:20px;	
+}
+
+.casc{
+	height: 200px;	width: 100px;border-radius: 30%;
+}
+.casc:hover{
+	height: 300px;width: 200px;	border-radius: 50%;box-shadow: 2px 3px 4px rgb(100,21,45);
+	}
+
+#legende{
+	font-family: ALGERIAN;font-size: 25px;color: BLACK;	text-shadow: 0px 3px blue;
+}
+#legende {
+     -webkit-animation: legende 3s infinite; /* Chrome, Safari, Opera */
+    animation: legende 5s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes legende {
+    50% {text-indent: 100px;}
+}
+
+/* Standard syntax */
+@keyframes legende {
+    50% {text-indent: 100px;}
+}
+#new{
+	font-size: 45px;color:rgba(202,45,178,0.4); text-align: center;}
+	
+h6{
+	text-align: center;
+}
+.eto{
+	margin-left: 20px;border:2px solid white;}
+.aaa{
+	font-size: 15px;font-family:  Impact;animation-name: slideInRight;animation-iteration-count: infinite;animation-duration: 10s;
+	}
+.project img{
+	height: 200px;width:150px;	border-radius: 20%;
+}
+#far img{
+	animation-name: zoomOutDown;animation-duration: 15s;animation-iteration-count: infinite;
+}
+#f{font-size:15px;text-align: center;}
+#merci{font-size: 20px;font-family: GungsuhChe;}
+#p{font-size:25px; text-decoration: underline; }
